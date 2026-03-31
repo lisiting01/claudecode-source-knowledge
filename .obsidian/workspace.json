@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "4bc65da2b51099f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "48c66f803e2c9364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bc640296a2986c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Claude Code 架构总览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Claude Code 架构总览"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3112ee74ab69afd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ace6002f67e51f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Claude Code 架构总览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Claude Code 架构总览"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c76261440cce1fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8699be76a854f338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179a50d04958c875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8a24ccef489d2a3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b6f8b34fd65358b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5119eda0b15f2af7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0282fb18acdb1f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4796195f727688b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Claude Code 架构总览.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00 - Claude Code 架构总览 的反向链接列表"
+            }
+          },
+          {
+            "id": "8a92b4809dc855e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Claude Code 架构总览.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "00 - Claude Code 架构总览 的出链列表"
+            }
+          },
+          {
+            "id": "486da6babbaaa4b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3fbe15fe206f278f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7e3bdf3f3ab664e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Claude Code 架构总览.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00 - Claude Code 架构总览 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b3bc640296a2986c",
+  "lastOpenFiles": [
+    "01 - 设计哲学与核心理念.md",
+    "00 - Claude Code 架构总览.md",
+    "08 - 构建 AI Agent 的设计启示.md",
+    "欢迎.md",
+    "04 - 上下文与状态管理.md",
+    "07 - 对话生命周期.md",
+    "06 - 扩展性机制.md",
+    "05 - 多智能体协作.md",
+    "03 - 权限与安全模型.md",
+    "02 - 工具系统设计.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references/PROPERTIES.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references/CALLOUTS.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references/EMBEDS.md",
+    "obsidian-skills-main/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "obsidian-skills-main/skills/json-canvas/references/EXAMPLES.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references",
+    "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-markdown/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-bases/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-bases/references",
+    "obsidian-skills-main/skills/json-canvas/SKILL.md",
+    "obsidian-skills-main/skills/json-canvas/references",
+    "obsidian-skills-main/skills/defuddle/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-cli",
+    "obsidian-skills-main/skills/obsidian-markdown",
+    "obsidian-skills-main/skills/obsidian-bases",
+    "obsidian-skills-main/skills/json-canvas",
+    "obsidian-skills-main/skills/defuddle",
+    "obsidian-skills-main/skills",
+    "obsidian-skills-main/README.md",
+    "obsidian-skills-main/LICENSE"
+  ]
+}
