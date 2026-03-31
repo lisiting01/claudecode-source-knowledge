@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.basename != "CLAUDE"
+    - file.basename != "README"
+    - domain != null
+formulas:
+  has_parent: if(parent, "↳ " + parent, "")
+properties:
+  domain:
+    displayName: 所属域
+  description:
+    displayName: 核心问题
+  formula.has_parent:
+    displayName: 父笔记
+  file.mtime:
+    displayName: 最后修改
+views:
+  - type: table
+    name: 按域分组
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - description
+      - formula.has_parent
+  - type: table
+    name: 全部笔记
+    order:
+      - file.name
+      - domain
+      - description
+      - formula.has_parent
+      - file.mtime
+  - type: cards
+    name: 卡片视图
+    order:
+      - file.name
+      - domain
+      - description

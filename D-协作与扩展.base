@@ -1,0 +1,17 @@
+filters:
+  and:
+    - 'domain == "D-协作与扩展"'
+
+properties:
+  description:
+    displayName: "核心问题"
+  parent:
+    displayName: "父笔记"
+
+views:
+  - type: table
+    name: "域内笔记"
+    order:
+      - file.name
+      - description
+      - parent

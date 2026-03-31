@@ -1,0 +1,17 @@
+filters:
+  and:
+    - 'domain == "E-交互与体验"'
+
+properties:
+  description:
+    displayName: "核心问题"
+  parent:
+    displayName: "父笔记"
+
+views:
+  - type: table
+    name: "域内笔记"
+    order:
+      - file.name
+      - description
+      - parent
