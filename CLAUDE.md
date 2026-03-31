@@ -44,6 +44,9 @@
 - [ ] **推测执行（Speculation）**：源码中有 `speculation` 状态，AI 是否会预测用户下一步？
 - [ ] **Token 估算**：在发出请求前如何估算 token 数？
 
+### B 域 — 安全与信任
+- [x] **权限模式深挖**：完整判定流水线 + 各模式独立分析 → [[权限判定的完整流水线]]、[[Auto 模式与 AI 分类器]]、[[Default 与 AcceptEdits 模式]]、[[BypassPermissions 与 DontAsk 模式]]
+
 ### D 域 — 协作与扩展
 - [ ] **Bridge 系统**：CLI 与 VS Code/JetBrains IDE 扩展如何通信？
 - [ ] **远程代理（CCR）**：企业版的云端代理如何工作？

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan 模式的实现细节.md",
+                "file": "权限判定的完整流水线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan 模式的实现细节"
+              "title": "权限判定的完整流水线"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "b0c044690fd0be89",
   "lastOpenFiles": [
-    "配置与提示词.md",
+    "协作与扩展.md",
+    "BypassPermissions 与 DontAsk 模式.md",
+    "Default 与 AcceptEdits 模式.md",
+    "Auto 模式与 AI 分类器.md",
+    "权限判定的完整流水线.md",
     "Plan 模式的实现细节.md",
+    "配置与提示词.md",
     "环境变量的安全过滤机制.md",
     "Claude Code 架构总览.md",
     "知识库全局视图.base",
@@ -201,7 +206,6 @@
     "sed7DmnVQ",
     "12 - 环境变量系统.md",
     "交互与体验.md",
-    "协作与扩展.md",
     "安全与信任.md",
     "核心运行时.md",
     "环境变量完整清单.md",
@@ -216,10 +220,6 @@
     "行为拒绝与操作拦截机制.md",
     "外部网络连接完整清单.md",
     "遥测数据流向与上报清单.md",
-    "数据收集与隐私保护设计.md",
-    "构建 AI Agent 的设计启示.md",
-    "对话生命周期.md",
-    "扩展性机制.md",
-    "多智能体协作.md"
+    "数据收集与隐私保护设计.md"
   ]
 }
